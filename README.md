@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Owayran Osman and I'm a Desenvolvedor FullStack, from Brazil!!</h2>
+<h2 align="left">Hi 👋! My name is Owayran Osman and I'm a Developer, from Brazil!!</h2>
 
 ###
 
